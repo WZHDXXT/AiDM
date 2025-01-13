@@ -1,0 +1,9 @@
+
+Example
+To run the script with the default seed 2024:
+
+python locality_sensitive_hashing.py
+
+To specify a custom seed:
+
+python locality_sensitive_hashing.py --seed 42
